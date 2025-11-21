@@ -14,16 +14,15 @@ Spendly aims to become the simplest yet most efficient budgeting and financial i
 - Categorize expenses
 - Interactive pie charts & analytics
 - Clean and minimal UI
-- Secure local storage (cloud sync coming soon)
-- Smart budgeting (upcoming)
+- Secure local storage
+- Smart budgeting
 
 ---
 
 ## 🏗 Tech Stack
 - **Frontend:** React Native
-- **Backend:** Firebase / Supabase (TBD)
-- **State Management:** Zustand / Redux Toolkit (TBD)
-- **Database:** SQLite / AsyncStorage / Postgres (TBD)
+- **State Management:** React Context + Hooks
+- **Database:** AsyncStorage
 
 ---
 
@@ -36,26 +35,15 @@ See `PROJECT_STRUCTURE.md`.
 All contributors must:
 1. Read `CONTRIBUTING.md`
 2. Complete the onboarding steps in `ONBOARDING.md`
-3. Join the Cohort WhatsApp/Discord group
+3. Join the Co-Developers WhatsApp/Discord group
 4. Work only through feature branches
 5. Submit pull requests to the `dev` branch
 
 ---
 
-## 🔐 Environment Setup
-Create a `.env` file following the example:
-```
-API_KEY=
-AUTH_DOMAIN=
-PROJECT_ID=
-```
-Never commit `.env`.
-
----
-
 ## 📥 Installation
 ```
-git clone https://github.com/your-account/spendly-app.git
+git clone https://github.com/SpendlyHQ/spendly-app.git
 cd spendly-app
 npm install
 npm start
