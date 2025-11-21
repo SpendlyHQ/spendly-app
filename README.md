@@ -1,4 +1,3 @@
-```markdown
 # Spendly – Intelligent Personal Finance Manager
 
 Spendly is a smart, lightweight, and modern personal finance tracking app built for students and young adults. It helps users categorize expenses, track spending habits, set budgets, and gain insights into their financial behavior.
@@ -71,4 +70,3 @@ Proprietary – Not open-source.
 
 ## 👨‍💻 Developer
 **Hrishav Saha** – Project Lead, Spendly
-```
